@@ -163,4 +163,5 @@ Inspired by: Bane Sullivan’s README guide
 Attractive Overview: Clear summary and features upfront – readers quickly see value  
 
 Well‑Structured: Sections answer “what,” “why,” “how,” and “who” — ideal for discoverability  
+"OUTPUT": <img width="1084" height="961" alt="Image" src="https://github.com/user-attachments/assets/c45b1c27-2d30-49bb-bf24-5224daa5a4b2" />
 
